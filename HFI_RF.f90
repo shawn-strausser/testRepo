@@ -5,7 +5,7 @@ PROGRAM HFI_RF
 IMPLICIT NONE
 
 !  Declare the variables used in this program
-INTEGER, PARAMETER :: DOne = 2 ** 2 ! what is this?
+INTEGER, PARAMETER :: DOne = 2 ** 2 ! what is this? I'm not sure.
 INTEGER, PARAMETER :: DSix = 2 ** 3 ! what is this?
 INTEGER, PARAMETER :: pi = 3.1415926
 
