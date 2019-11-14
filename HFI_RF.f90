@@ -9,6 +9,8 @@ INTEGER, PARAMETER :: DOne = 2 ** 2 ! what is this? I'm not sure.
 INTEGER, PARAMETER :: DSix = 2 ** 3 ! what is this?
 INTEGER, PARAMETER :: pi = 3.1415926
 
+This should be easy to edit, right?
+
 ! INTEGER :: j, k, m, n doesn't seem necessary since variables 
 		 ! beginning with j, k, m, n are assumed to be integers in Fortran90
 
